@@ -36,19 +36,6 @@ class _VideoAppState extends State<Video> {
               )
             : Container(),
       ),
-      // floatingActionButton: FloatingActionButton(
-      //   onPressed: () {
-      //     setState(() {
-      //       _controller.value.isPlaying
-      //           ? _controller.pause()
-      //           : _controller.play();
-      //     });
-      //   },
-      //   child: Icon(
-      //     _controller.value.isPlaying ? Icons.pause : Icons.play_arrow,
-      //   ),
-      // ),
-      // floatingActionButtonLocation: FloatingActionButtonLocation.centerFloat,
       floatingActionButton: Stack(
         children: <Widget>[
           Align(
