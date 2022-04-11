@@ -1,6 +1,6 @@
 # stellareye
 
-A new Flutter project.
+Simple application created in Flutter that can search images and videos hosted by NASA.
 
 ## Getting Started
 
